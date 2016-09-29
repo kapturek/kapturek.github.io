@@ -1,2 +1,1 @@
-
-console.log('init');
+var paralax = require('./paralax/init.js');
